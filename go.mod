@@ -1,4 +1,4 @@
-module go-scrapter-yt
+module github.com/PavelBBwaste/CollyHoroscope
 
 go 1.22.2
 
