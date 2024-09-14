@@ -144,7 +144,7 @@ func main() {
 		{"Король Пентаклей", "Материальное обеспечение, стабильность, лидерство.", "images/tarot/78.png"},
 	}
 
-	botToken := "7537539007:AAH_MxXpGQLeUSUSioBNURP-_2r5vyQK_ug"
+	botToken := "..."
 
 	bot, err := telego.NewBot(botToken, telego.WithDefaultDebugLogger())
 	if err != nil {
